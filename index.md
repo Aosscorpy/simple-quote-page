@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1">
+  
+  <link rel="stylesheet" type="text/css" href="main.css">
+  <link href="https://fonts.googleapis.com/css?family=Crimson+Text|Julius+Sans+One" rel="stylesheet">
+  
+  <title>Freedom</title>
+</head>
+<body>
+  <nav>
+      <ul>
+          <li><a href="index.html" class="en" title="English">EN</a>
+          </li>
+          <li><a href="ro.html" class="ro" title="Romana">RO</a>
+          </li>
+      </ul>
+  </nav>
+  <div class="wrapper">
+    <p class="quote">"The freedom of Mankind does not lie in the fact that we can do what we want, but that we do not have to do that which we do not want."</p>
+    <p class="author"><small>– Jean-Jacques Rousseau</small></p>
+  </div>
+    
+</body>
+</html>
